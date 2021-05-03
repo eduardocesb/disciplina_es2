@@ -1,1 +1,4 @@
 Carlos Eduardo de Santana Bastos
+
+ - Feedback
+	Gostei muito da aula, resumiu bem as motivações/funcionalidades do Git, bem como alguns de seus vários comandos	
