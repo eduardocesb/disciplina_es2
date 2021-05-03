@@ -1,3 +1,5 @@
 Carlos Eduardo de Santana Bastos
 
 Engenharia de Software II
+ - Feedback
+	Gostei muito da aula, resumiu bem as motivações/funcionalidades do Git, bem como alguns de seus vários comandos	
